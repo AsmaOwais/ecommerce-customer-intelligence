@@ -1,0 +1,20 @@
+{
+  "selected_model": "Logistic Regression",
+  "selection_rule": "Highest validation F1; ROC-AUC breaks ties",
+  "feature_columns": [
+    "total_orders",
+    "total_spending",
+    "average_order_value",
+    "days_since_last_order",
+    "return_rate",
+    "average_delivery_days",
+    "age",
+    "membership_type"
+  ],
+  "feature_cutoff": "2026-05-31",
+  "target_start": "2026-06-01",
+  "target_end": "2026-08-31",
+  "positive_class": 1,
+  "decision_threshold": 0.5,
+  "sklearn_version": "1.7.2"
+}
