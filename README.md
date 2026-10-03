@@ -58,3 +58,10 @@ The app uses ecommerce_cleaned.db and saved models.
 ## Submission Links
 GitHub repository: To be added
 Live Streamlit app: To be added
+## Live Application
+
+[Open CommerceIQ App](https://ecommerce-customer-intelligence-pkpdziehnzqfldy8t57khw.streamlit.app/)
+
+## GitHub Repository
+
+https://github.com/AsmaOwais/ecommerce-customer-intelligence
